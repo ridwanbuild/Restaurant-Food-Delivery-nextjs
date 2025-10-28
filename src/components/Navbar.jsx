@@ -14,9 +14,9 @@ export default function Navbar() {
   const menuItems = [
     { name: "Home", href: "/" },
     { name: "Menu", href: "/menu" },
-   
   ];
 
+  
   return (
     <nav className="bg-white shadow-md py-4 sticky top-0 z-50">
 
